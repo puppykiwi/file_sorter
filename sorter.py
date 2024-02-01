@@ -6,8 +6,8 @@ import shutil
 target_folder = "/home/ray/Documents/ECE/2.2/"
 directory_tags = {
     "Analogue Elec": ["Analogue","Analogue Elec", "Analogue Electronics", "EEE 2210", "2210"],
-    "CNT": ["CNT"],
-    "Electrical Machines": ["tag4"],
+    "CNT": ["EEE 2213 CIRCUIT AND NETWORK THEORY", "Circuit and Network Theory", "EEE 2213", "CNT", "Circuit", "Network", "EEE2213", "2213", "Circuit Theory"],
+    "Electrical Machines": ["EEE 2214 ELECTRICAL MACHINES", "Electrical Machines", "EEE 2214", "EEE2214", "Machines", "EEE2214 Electrical Machines", "EEE 2214 Machines", "EEE 2214 EM", "EEE 2214 Elec Machines", "EEE 2214 EMachines"],
     "ElectroMagnetism": ["tag5"],
     "Mech Principles": ["tag6"],
     "ODE": ["tag7"],
