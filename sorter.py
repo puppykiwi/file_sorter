@@ -15,6 +15,7 @@ directory_tags = {
     "Phy Elec": ["2212","EEE 2212 PHYSICAL ELECTRONICS", "EEE 2212 Physical Electronics", "EEE2212", "2212", "Physical Electronics", "EEE2212 Phy Elec", "EEE 2212 Phy Elec", "EEE 2212 PE", "EEE 2212 Phys Elec", "EEE 2212 Physical Elec"]
 } #TODO Move dictionary to separate file or json for abstraction
 
+
 # downloads folder
 downloads_folder = "/home/ray/Downloads/"
 check_interval = 5 # seconds
