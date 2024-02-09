@@ -6,7 +6,7 @@ import shutil
 target_folder = "/home/ray/Documents/ECE/2.2/"
 directory_tags = {
     "Analogue Elec": ["Analogue","Analogue Elec", "Analogue Electronics", "EEE 2210", "2210"],
-    "CNT": ["2213", "EEE 2213 CIRCUIT AND NETWORK THEORY", "Circuit and Network Theory", "EEE 2213", "CNT", "Circuit", "Network", "EEE2213", "2213", "Circuit Theory"],
+    "CNT": ["2213","Lecture", "EEE 2213 CIRCUIT AND NETWORK THEORY", "Circuit and Network Theory", "EEE 2213", "CNT", "Circuit", "Network", "EEE2213", "2213", "Circuit Theory"],
     "Electrical Machines": ["2214", "EEE 2214 ELECTRICAL MACHINES", "Electrical Machines", "EEE 2214", "EEE2214", "Machines", "EEE2214 Electrical Machines", "EEE 2214 Machines", "EEE 2214 EM", "EEE 2214 Elec Machines", "EEE 2214 EMachines"],
     "ElectroMagnetism": ["2215", "EEE 2215 ELECTROMAGNETICS", "Electromagnetics", "EEE 2215 EM", "EEE 2215 ElecMag", "EEE 2215 Electromag", "EEE 2215 Electromagnetic Theory", "EEE2215", "2215", "Electromagnetic Field Theory", "Electromagnetic Waves"],
     "Mech Principles": ["2211", "EME 2211", "MECHANICAL ENGINEERING PRINCIPLES", "EME 2211 MECHANICAL ENGINEERING PRINCIPLES", "MECHANICAL PRINCIPLES", "MECHANICAL ENG PRINCIPLES", "EME 2211 MECH ENG PRINCIPLES", "MECH ENG PRINCIPLES", "MECH PRINCIPLES", "EME 2211 MECH PRINCIPLES", "MECHANICAL ENGINEERING"],
