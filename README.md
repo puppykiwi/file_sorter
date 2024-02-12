@@ -8,3 +8,5 @@ THis program sorts your school notes into their respective folders for you
 - Implement auto startup through either cronjobs or services
 - Implement relative paths for folders
 - Create folder structure if it doesn't exist and preferentially use it
+- Sync notes to GDrive
+- More verbose output in cli
