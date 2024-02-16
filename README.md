@@ -6,8 +6,8 @@ THis program sorts your school notes into their respective folders for you
 - Ignore skipped files during subsequent checks
 - Convert into both cross-compatible and platform specific executables
 - Implement auto startup through either cronjobs or services
-- Implement relative paths for folders
 - Create folder structure if it doesn't exist and preferentially use it
-- Sync notes to GDrive
+- Sync notes to GDrive'
+- Sorter Dir that sorts any sus files
 
 - More verbose output in cli

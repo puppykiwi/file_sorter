@@ -52,7 +52,7 @@ while True:
             else:
                 default_folder = os.path.join(target_folder, "default")
 
-                
+        
                 if not os.path.exists(default_folder):
                     os.makedirs(default_folder)
 
@@ -63,7 +63,7 @@ while True:
                 else:
                     print(f"File '{filename}' already exists in '{default_folder}'. Skipping.")
 
-                    
+                
                     shutil.move(file_path, target_directory)
                     print(f"File '{filename}' moved to '{target_directory}'.")
 
