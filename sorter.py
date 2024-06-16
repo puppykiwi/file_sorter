@@ -68,10 +68,10 @@ while True:
                     print(f"File '{filename}' moved to '{target_directory}'.")
 
                     
-                    # os.remove(file_path)
+                    os.remove(file_path)
 
     
     time.sleep(check_interval)
         
 if __name__ == "__main__":
-    print("Running sorter.py...")
+    print("Running sorter.py...")    
